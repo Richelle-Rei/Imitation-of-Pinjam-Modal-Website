@@ -1,0 +1,16 @@
+html{
+    background-color: aqua;
+}
+
+a {
+    color: black;
+}
+
+ul {
+
+}
+
+.nav-link dropdown-toggle {
+    color: black;
+    font-size: 18;
+}
