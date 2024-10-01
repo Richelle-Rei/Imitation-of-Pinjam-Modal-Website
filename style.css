@@ -14,8 +14,8 @@ a {
 
 .tkb-info-mobile {
     position: absolute;
-    top: 10px; /* Adjust as needed */
-    right: 20%; /* Adjust as needed */
+    top: 10px; 
+    right: 20%;
 }
 
 
@@ -30,9 +30,9 @@ a {
 
 .navbar .d-flex {
     display: flex;
-    align-items: center; /* Vertically center items */
+    align-items: center;
 }
 
 .navbar .dropdown-menu {
-    margin-top: 0; /* Adjust this if needed */
+    margin-top: 0;
 }
